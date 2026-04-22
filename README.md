@@ -1,6 +1,5 @@
 # Daily Wellness Tracker - Project Report
 
-![Project Banner](wellness_tracker_banner_1776867304918.png)
 
 ## 1. Introduction
 The **Daily Wellness Tracker** is a comprehensive full-stack web application designed to help users monitor and improve their physical and mental health. In an era where maintaining a healthy lifestyle is increasingly challenging, this tool provides a centralized platform for tracking essential wellness metrics, from physical activity to emotional well-being.
